@@ -1,8 +1,3 @@
-//----------------------------------------------
-//            NGUI: Next-Gen UI kit
-// Copyright © 2011-2015 Tasharen Entertainment
-//----------------------------------------------
-
 #if !UNITY_3_5
 #define DYNAMIC_FONT
 #endif
